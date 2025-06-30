@@ -42,11 +42,6 @@
 
 ---
 
-## 📊 **Estadísticas GitHub**
-[![Stats](https://github-readme-stats.vercel.app/api?username=sebastiansantis1&include_all_commits=true)](https://github.com/sebastiansantis1) [![Streak](https://streak-stats.demolab.com?user=sebastiansantis1)](https://git.io/streak-stats)
-
----
-
 ### 📫 **¿Quieres colaborar?**
 🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-santis-19a89924b/) | ✉️ [Email](santis.ignasebastian@gmail.com)
 
