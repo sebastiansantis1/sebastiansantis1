@@ -43,9 +43,7 @@
 ---
 
 ## 📊 **Estadísticas GitHub**
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/sebastiansantis1)  
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/sebastiansantis1)
-[![Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&include_all_commits=true)](https://github.com/sebastiansantis1) [![Streak](https://streak-stats.demolab.com?user=sebastiansantis1)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=sebastiansantis1&include_all_commits=true)](https://github.com/sebastiansantis1) [![Streak](https://streak-stats.demolab.com?user=sebastiansantis1)](https://git.io/streak-stats)
 
 ---
 
